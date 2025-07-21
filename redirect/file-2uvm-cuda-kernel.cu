@@ -1,4 +1,3 @@
-jatin@test1:~/redirect/test-4$ cat 3.cu 
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
